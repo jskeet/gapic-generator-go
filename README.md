@@ -240,3 +240,5 @@ The generated code is compatible with Go 1.6.
 ## Contributing
 
 If you are looking to contribute to the project, please see CONTRIBUTING.md for guidelines.
+
+Just a test change

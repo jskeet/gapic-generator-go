@@ -1,3 +1,9 @@
+## [0.54.0](https://github.com/googleapis/google-cloud-go/releases/tag/v0.54.0) (2025-10-01)
+
+### Features
+
+* just a test change ([1d3f3f2](https://github.com/googleapis/google-cloud-go/commit/1d3f3f2a72a9f779c4c86550d1cfdbbaa751876a))
+
 # Changelog
 
 ## [0.53.1](https://github.com/googleapis/gapic-generator-go/compare/v0.53.0...v0.53.1) (2025-05-30)
